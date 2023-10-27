@@ -1,6 +1,6 @@
 {
   "name": "simple-encoder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "Only Brad",
     "email": "bradonly420@gmail.com"
@@ -11,6 +11,7 @@
   "devDependencies": {
     "typescript": "^5.2.2"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "https://github.com/onlybrad/simple-encoder"
