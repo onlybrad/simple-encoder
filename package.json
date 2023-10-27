@@ -1,0 +1,19 @@
+{
+  "name": "simple-encoder",
+  "version": "1.0.0",
+  "author": {
+    "name": "Only Brad",
+    "email": "bradonly420@gmail.com"
+  },
+  "description": "encode from string to Uint8Array and vice versa",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "index.d.ts.map"
+  ]
+}
